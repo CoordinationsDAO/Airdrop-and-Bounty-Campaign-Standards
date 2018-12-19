@@ -1,20 +1,20 @@
 There are lots of airdrops and bounty campaigns that borns everyday. Some users says that more than 80% of them are scam, and others are disrespecting users. For a user's more secure participation on these campaigns, a standard is now created where airdrop/bounty campaigns can publicly show that they are committed to comply with.
 
-[size=5pt]Infos:[/size]
+[quote][size=15pt]Infos:[/size]
 [list]
 [li]Managers: @Mesquito[/li]
-[li]Current version: 1.1[/li]
+[li]Current version: 1.2[/li]
 [li]Source-code: https://github.com/ZeroCoinOrganization/ABCS[/li]
 [li]Site: https://zerocoinorganization.github.io/ABCS/[/li]
-[/list]
+[/list][/quote]
 
 Projects can show on their campaigns a seal/badge of ABCS and their score (and if they are elligible or not), with link to an post containing our report of the given project. This seal can't be modified by the airdrop/bounty campaign, because it will be hosted on our site and is the user's responsibility to verify the URL of the image.
-[code]The badge/seal will be launched on the version 1.2[/code]
 
-[size=10pt]Before publishing a airdrop or bounty campaign, an project needs the following:[/size]
+[size=20pt]Before publishing a airdrop or bounty campaign, an project needs the following:[/size]
 [list]
-[li]Website
-[li]Screenshots/concepts of the product[/li]
+[li]Be original[/li]
+[li]Website[/li]
+[li]Screenshots/concept images of the product[/li]
 [li]Profiles on most need social networks: Facebook, Twitter, Medium, YouTube, Telegram Channel, Telegram Chat, LinkedIn[/li]
 [li]Whitepaper[/li]
 [li]Onepager[/li]
@@ -23,15 +23,16 @@ Projects can show on their campaigns a seal/badge of ABCS and their score (and i
 [li]When reviewing the time on your campaign, always use UTC timezone[/li]
 [li]Make explicit that rules:[/li]
 [/list]
-[code]You also must be a citizen or legal resident of a geographic area in which purchase, holding or use of [PROJECT] Token and tokens of its partners is not prohibited by applicable law, decree, regulation, treaty, or administrative act; not be a citizen or resident of, or located in, a geographic area that is subject to U.S. or other applicable sanctions or embargoes or be an individual, or an individual employed by or associated with an entity, identified on the U.S. Department of Commerce Denied Persons or Entity List, the U.S. Department of Treasury’s Specially Designated Nationals List, the U.S. Department of State’s Debarred Parties List or other applicable sanctions lists; not be resident or domiciled in the United States, China or the Cayman Islands; and be at least 18 years of age.[/code]
+[quote]You also must be a citizen or legal resident of a geographic area in which purchase, holding or use of [PROJECT] Token and tokens of its partners is not prohibited by applicable law, decree, regulation, treaty, or administrative act; not be a citizen or resident of, or located in, a geographic area that is subject to U.S. or other applicable sanctions or embargoes or be an individual, or an individual employed by or associated with an entity, identified on the U.S. Department of Commerce Denied Persons or Entity List, the U.S. Department of Treasury’s Specially Designated Nationals List, the U.S. Department of State’s Debarred Parties List or other applicable sanctions lists; not be resident or domiciled in the United States, China or the Cayman Islands; and be at least 18 years of age.[/quote]
 [list]
 [li]Instead of text, use images as the heading of each social network. Example: "PROJECT NAME | Twitter campaign"
-[li]Public participation sheet, containing user name, its social networks, if is approved and their tasks with their tokens (participation sheet can be individual for each social network)[/li]
+[/li][li]Public participation sheet, containing user name, its social networks, if is approved and their tasks with their tokens (participation sheet can be individual for each social network)[/li]
 [li]If using different participation sheets for each social network, don't use the same title on all, but put the social network name on them. Example: "PROJECT NAME bounty participation sheet - Twitter"[/li]
 [li]Don't say that the payment will vary according to quality, but say what is need to achieve that quality and what will be paid according to quality[/li]
 [/list]
 
-[size=10pt]Spin-off rule: be human[/size]
+[size=20pt]Spin-off rule: be human[/size]
+[img]https://cdn.pbrd.co/images/HSux1vG.png[/img]
 [list]
 [li]When flagging/banning users from airdrop or bounty campaign, create a appeal form[/li]
 [li]If user submits an appeal form or airdrop/bounty report out of the date, your project needs to not be systematic, but human; with good support, and listen to users individually and attend them[/li]
@@ -41,7 +42,7 @@ Projects can show on their campaigns a seal/badge of ABCS and their score (and i
 [li]When you reject to attend a user because of dates (and the distribution of airdrop/bounty tokens didn't happened yet, and there is not just 1 day left till the distribution) you're not being "a fair manager that is following the rules", but you're being a not-human systematic[/li]
 [/list]
 
-Optional things (also worth points):
+[size=15pt]Optional things (also worth points):[/size]
 [list]
 [li]Professional website[/li]
 [li]Professional whitepaper[/li]
@@ -53,7 +54,11 @@ Optional things (also worth points):
 [li]Built-on-site airdrop[/li]
 [li]Built-on-site bounty campaign[/li]
 [li]Participation "sheet" on a GitHub issue's first comment (cannot be deleted, but edited - unlike Google Forms, its untamperable and really transparent)[/li]
+[li]The project is an solution/idea that is different from any other crypto project[/li]
 [/list]
+
+[size=15pt]Badge/seal:[/size]
+[img]https://cdn.pbrd.co/images/HSukWjq.png[/img]
 
 [code]Don't copy ABCS: it's registered on Namecoin's blockchain and Web Archive.[/code]
 

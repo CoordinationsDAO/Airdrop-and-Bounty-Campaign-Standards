@@ -2,15 +2,35 @@ Before publishing a airdrop or bounty campaign, an project needs the following:
 - Website
 - Screenshots/concepts of the product
 - Profiles on most need social networks: Facebook, Twitter, Medium, YouTube, Telegram Channel, Telegram Chat, LinkedIn
+- Whitepaper
 - Make clear where to post the airdrop/bounty reports: on BitcoinTalk thread or an online form
 - On report forms, warn that the forms will be closed on the date and user will be unable to report its work
+- When reviewing the time on your campaign, always use UTC timezone
+- Make explicit that rules:
+You also must be a citizen or legal resident of a geographic area in which purchase, holding or use of [PROJECT] Token and tokens of its partners is not prohibited by applicable law, decree, regulation, treaty, or administrative act; not be a citizen or resident of, or located in, a geographic area that is subject to U.S. or other applicable sanctions or embargoes or be an individual, or an individual employed by or associated with an entity, identified on the U.S. Department of Commerce Denied Persons or Entity List, the U.S. Department of Treasury’s Specially Designated Nationals List, the U.S. Department of State’s Debarred Parties List or other applicable sanctions lists; not be resident or domiciled in the United States, China or the Cayman Islands; and be at least 18 years of age.
+- Instead of text, use images as the heading of each social network. Example: "PROJECT NAME | Twitter campaign"
+- Public participation sheet, containing user name, its social networks, if is approved and their tasks with their tokens (participation sheet can be individual for each social network)
+- If using different participation sheets for each social network, don't use the same title on all, but put the social network name on them. Example: "PROJECT NAME bounty participation sheet - Twitter"
+- Don't say that the payment will vary according to quality, but say what is need to achieve that quality and what will be paid according to quality
+- 
 
 Spin-off rule: be human
 - When flagging/banning users from airdrop or bounty campaign, create a appeal form
-- If user submits an appeal form or airdrop/bounty report out of the date, your project needs to not be systematic but human, with good support, and listen to users individually and attend them
+- If user submits an appeal form or airdrop/bounty report out of the date, your project needs to not be systematic, but human; with good support, and listen to users individually and attend them
 - Don't be happy when a user losses their tokens because of not obbeying to dates or any other reason: if you want to distribute the coins for the minor user amount as possible, better if you use stakes (divisible between any amount of users) than limiting with your project's tokens
 - Be fair with your project, but at same time, be compreensive and human to help users
 - That doesn't means you need to accept spammers/scammers/bots, but when a user is flagged as so, an appeal form needs to be accessible
 
-utc
-post btc or form
+Optional things (also worth points):
+- Professional website
+- Professional whitepaper
+- Professional BTT signature design
+- Working prototype
+- Working product
+- Smart contract already deployed
+- Profile on AngelList
+- Built-on-site airdrop
+- Built-on-site bounty campaign
+- Participation "sheet" on a GitHub issue's first comment (cannot be deleted, but edited)
+
+Soon: guide about how to participate on airdrops/bounty campaigns, and a guide to start your own crypto project
